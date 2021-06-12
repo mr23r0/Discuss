@@ -16,4 +16,5 @@ I'm very Thankful to Haris Khan for this amazing idea.
 
 1. extract files to `htdocs`
 2. create new `discuss` database
+3. import `discuss.sql` to `discuss` database
 
